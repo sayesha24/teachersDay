@@ -1,0 +1,40 @@
+
+            h1 {
+                color: brown;
+                
+            }
+
+            * {
+                border: solid;
+            }
+            .div1{
+
+                display:flex;
+                justify-content: center;
+                background-color: aqua;
+            }
+            .thankyou{
+
+              display:flex;
+             width: 100px;
+             right: 600px;
+             top: -100px;
+             text-align: left;
+             font-size: 100px;
+            
+            }
+.essay{
+
+  display: flex;
+  justify-content: space-evenly;
+  background-color:tomato;
+
+}            
+      
+ body{
+
+    background-color:rgb(157, 38, 187);
+
+ }
+
+ 
